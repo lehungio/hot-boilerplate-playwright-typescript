@@ -1,1 +1,1 @@
-# hot-boilerplate-playwright-typescript
+# hot-playwright-typescript
